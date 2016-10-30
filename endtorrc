@@ -209,7 +209,7 @@ DNSPort 9053
 
 NumEntryGuards 400
 NumDirectoryGuards 400
-GuardLifetime 3 days
+GuardLifetime 1 month
 
 KeepalivePeriod 60
 CircuitIdleTimeout 60
